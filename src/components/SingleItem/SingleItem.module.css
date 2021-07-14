@@ -5,7 +5,8 @@
 }
 
 .singleItem__image {
-  width: 600px;
+  width: 400px;
+  height: 295px;
   object-fit: contain;
   margin-right: 1rem;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);

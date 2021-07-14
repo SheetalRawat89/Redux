@@ -7,12 +7,13 @@
 
 .cartItem__image {
   width: 350px;
+  height: 300px;
   object-fit: contain;
   border-radius: 10px;
 }
 
 .cartItem__details {
-  padding: 1rem;
+  padding: 3rem;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
